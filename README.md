@@ -9,7 +9,7 @@
     <img src="https://www.lambdatest.com/resources/images/news24.gif">
 </p>
 
-- 🌱 I’m currently learning Mern Stack 
+- 🌱 I’m currently learning MERN Stack 
 
 - 👨‍💻 My Portfolio Website   https://avinash-portfolio9.netlify.app/
 
