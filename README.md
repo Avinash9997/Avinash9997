@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Avinash9997&label=Profile%20views&color=0e75b6&style=flat" alt="Avinash9997" />
+</p>
+
 
 <p align='center'>
     <img src="https://www.lambdatest.com/resources/images/news24.gif">
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athifbinu&label=Profile%20views&color=0e75b6&style=flat" alt="athifbinu" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/athif_binu" target="blank"><img src="https://img.shields.io/twitter/follow/athif_binu?logo=twitter&style=for-the-badge" alt="athif_binu" /></a> </p>
 
 - 🌱 I’m currently learning Mern Stack 
 
@@ -21,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/athifbinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="athifbinu" height="30" width="40" /></a>
-<a href="https://twitter.com/athif_binu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athif_binu" height="30" width="40" /></a>
+<a href="https://x.com/Avi_G_speaks?t=AttIKIt5IIpJoZ_REwKcnQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athif_binu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammed-athif-93a249214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-athif-93a249214/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/athif-binu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="athif-binu" height="30" width="40" /></a>
 <a href="https://medium.com/@binuathif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@binuathif" height="30" width="40" /></a>
