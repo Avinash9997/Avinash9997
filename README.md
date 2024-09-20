@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash from India</h1>
 
 <p align="left">
+  <h1 align="center">Software Developer</h1>
   <img src="https://komarev.com/ghpvc/?username=Avinash9997&label=Profile%20views&color=0e75b6&style=flat" alt="Avinash9997" />
 </p>
 
