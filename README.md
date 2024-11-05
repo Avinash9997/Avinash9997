@@ -33,9 +33,3 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash9997&show_icons=true&locale=en&layout=compact" alt="avinash9997" /></p>
 
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash9997&" alt="avinash9997" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash9997&show_icons=true&locale=en" alt="avinash9997" /></p>
