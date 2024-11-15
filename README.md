@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash from India</h1>
+<h1 align="center">Hi there 👋, Welcome to my Github page!</h1>
 
 <p align="left">
   <h2 align="center">Software Developer</h2>
