@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning MERN Stack 
 
-- 👨‍💻 My Portfolio Website   https://avinash-portfolio9.netlify.app/
+- 👨‍💻 My Portfolio Website   https://avinash-portfolio-kappa.vercel.app/
 
 - 📫 How to reach me **avinashghanghav9@gmail.com**
 
