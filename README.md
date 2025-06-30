@@ -1,35 +1,145 @@
-<h1 align="center">Hi there 👋, Welcome to my Github page!</h1>
+# <div align="center">👋 Welcome to My Digital Universe</div>
 
-<p align="left">
-  <h2 align="center">Software Developer</h2>
-  <img src="https://komarev.com/ghpvc/?username=Avinash9997&label=Profile%20views&color=0e75b6&style=flat" alt="Avinash9997" />
-</p>
-
-
-<p align='center'>
-    <img src="https://www.lambdatest.com/resources/images/news24.gif">
-</p>
-
-- 🌱 I’m currently learning MERN Stack 
-
-- 👨‍💻 My Portfolio Website   https://avinash-portfolio-kappa.vercel.app/
-
-- 📫 How to reach me **avinashghanghav9@gmail.com**
-
-- ⚡ Open Source Lover 
-- ⚡ Startups
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Avi_G_speaks?t=AttIKIt5IIpJoZ_REwKcnQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athif_binu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avinashghanghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-athif-93a249214/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/avinash_ghanghav_patil?igsh=MXdub25uY3p4emozeQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athif-binu" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
+<div align="center">
   
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Startup+Innovator;Problem+Solver" alt="Typing SVG" />
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash9997&show_icons=true&locale=en&layout=compact" alt="avinash9997" /></p>
+  <!-- Profile Views with Custom Badge -->
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Avinash9997&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Avinash9997?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  
+</div>
 
+---
+
+## 🚀 About Me
+
+```javascript
+const avinash = {
+    name: "Avinash Ghanghav Patil",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    currentFocus: "MERN Stack Development",
+    interests: ["Open Source", "Startups", "Innovation"],
+    askMeAbout: ["React", "Node.js", "JavaScript", "MongoDB"],
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
+
+<div align="center">
+  
+  <!-- Wave Animation -->
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Decoration" />
+  
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Technologies
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap,figma" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,gcp,webpack,flutter,java,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avinash9997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash9997&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinash9997&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash9997&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  
+</div>
+
+## 💼 Portfolio & Projects
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://avinash-portfolio-kappa.vercel.app/)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+  
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashghanghav)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Avi_G_speaks?t=AttIKIt5IIpJoZ_REwKcnQ&s=09)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avinash_ghanghav_patil?igsh=MXdub25uY3p4emozeQ==)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashghanghav9@gmail.com)
+  
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 Building scalable web applications with MERN stack
+- 🌱 Exploring microservices architecture
+- 👯 Looking to collaborate on open source projects
+- 💬 Always ready to discuss technology and startups
+- ⚡ Contributing to the developer community
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### ⭐ Star my repositories if you find them helpful!
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ---
+  
+  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Decoration" />
+  
+</div>
