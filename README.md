@@ -18,7 +18,7 @@
 
 ```javascript
 const avinash = {
-    name: "Avinash Ghanghav Patil",
+    name: "Avinash Ghanghav",
     role: "Full Stack Developer",
     location: "India 🇮🇳",
     currentFocus: "MERN Stack Development",
