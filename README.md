@@ -19,7 +19,7 @@
 ```javascript
 const avinash = {
     name: "Avinash Ghanghav",
-    role: "Full Stack Developer",
+    role: "Senior MERN Developer",
     location: "India 🇮🇳",
     currentFocus: "MERN Stack Development",
     interests: ["Open Source", "Startups", "Innovation"],
