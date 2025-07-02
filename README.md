@@ -1,4 +1,4 @@
-# <div align="center">👋 Welcome to My Digital Universe</div>
+# <div align="center">👋 Welcome to My GitHub Universe</div>
 
 <div align="center">
   
