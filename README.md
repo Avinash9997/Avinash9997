@@ -131,12 +131,7 @@ const avinash = {
 ---
 
 <div align="center">
-  
-  ### ⭐ Star my repositories if you find them helpful!
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  ---
+
   
   **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
