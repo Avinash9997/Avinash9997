@@ -135,6 +135,4 @@ const avinash = {
   
   **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Decoration" />
-  
 </div>
