@@ -27,6 +27,13 @@ const avinash = {
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash9997&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  
+</div>
 
 <div align="center">
   
@@ -77,13 +84,7 @@ const avinash = {
   
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash9997&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-  
-</div>
 
 ## 💼 Portfolio & Projects
 
