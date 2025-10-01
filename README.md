@@ -9,12 +9,6 @@
   
 </div>
 
-<div align="center">
-  
-  <!-- Wave Animation -->
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Decoration" />
-  
-</div>
 
 
 
