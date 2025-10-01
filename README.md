@@ -4,7 +4,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Startup+Innovator;Problem+Solver" alt="Typing SVG" />
+ <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Startup+Innovator;Problem+Solver" alt="Typing SVG" />
   
   <!-- Profile Views with Custom Badge -->
   <br/>
